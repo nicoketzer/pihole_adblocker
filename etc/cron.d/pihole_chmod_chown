@@ -1,0 +1,1 @@
+* * * * * root /bin/sh /var/www/html/pihole/reset_database.sh > /var/log/chmod_chown.log
